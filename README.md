@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Terrence👋
+## What I'm working on
+As of right now, my main coding language is Luau, meant for Roblox. There are an infinite amount of things that I still have to learn for Luau but my main focus for Roblox Studio is modeling and building.
 
 <!--
 **terrenceliang1330-droid/terrenceliang1330-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
